@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Muhammad Mohaz
-- ‍🎓 I am Enrolled in BSc Mechatronics Engineering at UET Peshawar,
-- 👀 I’m interested in Linux, C++, Python and C for IOT programming.
-- 🌱 I’m currently learning OOPS in C++ and C to program Arduino
-- 💞️ I’m looking to collaborate on Arduino Based Projects
--     I'm a Newbie and want to get my hands on some Profesional Skills
-- 📫 You can reach me at muhazawan04@gmail.com
+👋 Hi, I’m Muhammad Mohaz
+🎓 I am a Mechatronics Engineer
+👀 I’m interested in Machine Learning, ROS, and Computer Vision.
+🌱 I’m currently enhancing my skills in AI for Robotics and autonomous systems.
+💞️ I’m looking to collaborate on projects involving AI, robotics, and computer vision.
+📫 You can reach me at muhazawan04@gmail.com
 
